@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643255533855,
+  "index": "CSFWorkshop1/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "CSFWorkshop1/favicon.ico",
+        "CSFWorkshop1/index.html",
+        "CSFWorkshop1/main.94c928558ffde993.js",
+        "CSFWorkshop1/manifest.webmanifest",
+        "CSFWorkshop1/polyfills.0ca645c5596f5ab8.js",
+        "CSFWorkshop1/runtime.9ff29f2a4e7e9a28.js",
+        "CSFWorkshop1/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "CSFWorkshop1/assets/icons/icon-128x128.png",
+        "CSFWorkshop1/assets/icons/icon-144x144.png",
+        "CSFWorkshop1/assets/icons/icon-152x152.png",
+        "CSFWorkshop1/assets/icons/icon-192x192.png",
+        "CSFWorkshop1/assets/icons/icon-384x384.png",
+        "CSFWorkshop1/assets/icons/icon-512x512.png",
+        "CSFWorkshop1/assets/icons/icon-72x72.png",
+        "CSFWorkshop1/assets/icons/icon-96x96.png",
+        "CSFWorkshop1/assets/images/3683.jpg",
+        "CSFWorkshop1/assets/images/Norwegian-Forest-Cat-ThePetsDialogue.jpeg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "CSFWorkshop1/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "CSFWorkshop1/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "CSFWorkshop1/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "CSFWorkshop1/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "CSFWorkshop1/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "CSFWorkshop1/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "CSFWorkshop1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "CSFWorkshop1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "CSFWorkshop1/assets/images/3683.jpg": "889f1ed0d00314fbb07b8dee3460e8c291f45fd0",
+    "CSFWorkshop1/assets/images/Norwegian-Forest-Cat-ThePetsDialogue.jpeg": "26ccd16e79127ae3d44bc94445becb838b08a23e",
+    "CSFWorkshop1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "CSFWorkshop1/index.html": "75f29064ffab367493a7f897ec8d9700e2a30cf2",
+    "CSFWorkshop1/main.94c928558ffde993.js": "ad661d33ca4c5650d937d82181c5e5b832aec0ba",
+    "CSFWorkshop1/manifest.webmanifest": "c58180e377a073b0748a0cef2cfe7bc876828325",
+    "CSFWorkshop1/polyfills.0ca645c5596f5ab8.js": "b713476eff80ccf092c4eed45b2e5b279b2bd9dc",
+    "CSFWorkshop1/runtime.9ff29f2a4e7e9a28.js": "e658b4382737ff78239f31be9c87a56f0e00634a",
+    "CSFWorkshop1/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
